@@ -1,0 +1,26 @@
+
+.tab.selected {
+    color: blue;
+    font-weight: bold;
+}
+
+ul, li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul {
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+}
+
+li {
+    float: left;
+}
+
+button {
+    font-size: 24px;
+    border: 0;
+    outline: none;
+}
